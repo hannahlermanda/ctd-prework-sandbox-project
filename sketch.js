@@ -246,5 +246,5 @@ let snowflakes = () => {
 let refreshMe = () => {
   fill(15, 73, 24);
   textSize(12);
-  text("Refresh the page once for a surprise!", 275, 20);
+  text("Please refresh the page once if there's no sound! ▽・ᴥ・▽", 175, 20);
 };
