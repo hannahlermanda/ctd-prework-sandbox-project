@@ -246,7 +246,7 @@ let snowflakes = () => {
 let refreshMe = () => {
   fill(15, 73, 24);
   textSize(12);
-  text("Please click the page if there's no sound! ▽・ᴥ・▽", 175, 20);
+  text("Please click the page if there's no sound! ▽・ᴥ・▽", 220, 20);
 };
 
 document.addEventListener('click', function() 
